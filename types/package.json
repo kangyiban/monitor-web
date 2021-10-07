@@ -1,0 +1,20 @@
+{
+  "name": "@zyf2e/monitor-types",
+  "version": "2.1.29",
+  "description": "@zyf2e/monitor-types",
+  "author": "cjinhuo",
+  "license": "MIT",
+  "main": "dist/types.js",
+  "module": "dist/types.esm.js",
+  "types": "dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@zyf2e/monitor-core": "2.1.29",
+    "@zyf2e/monitor-utils": "2.1.29",
+    "@zyf2e/monitor-browser": "2.1.29",
+    "@zyf2e/monitor-shared": "2.1.29",
+    "@types/wechat-miniprogram": "^3.1.0"
+  }
+}
